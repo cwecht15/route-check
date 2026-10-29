@@ -1,0 +1,5 @@
+# All installed on this PC (Python 3.14). If not:  pip install -r requirements.txt
+requests>=2.31
+python-dotenv>=1.0
+reportlab>=4.0
+streamlit>=1.46
